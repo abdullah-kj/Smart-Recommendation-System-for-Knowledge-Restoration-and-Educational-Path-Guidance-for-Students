@@ -1,0 +1,2 @@
+# Smart-Recommendation-System-for-Knowledge-Restoration-and-Educational-Path-Guidance-for-Students
+Optilearn AI is an emerging educational recommendation system, offering basic functionalities to aid university students in  effective course selection and academic planning. The system's  primary objective is to prevent academic bottlenecks by guiding  students toward better course pathways, taking into account  various academic scenarios
